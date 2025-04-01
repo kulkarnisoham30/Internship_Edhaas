@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Internship_Edhaas/static/css/main.5833ebad.css",
+    "main.js": "/Internship_Edhaas/static/js/main.6fa3fca4.js",
+    "static/js/453.bd919971.chunk.js": "/Internship_Edhaas/static/js/453.bd919971.chunk.js",
+    "index.html": "/Internship_Edhaas/index.html",
+    "main.5833ebad.css.map": "/Internship_Edhaas/static/css/main.5833ebad.css.map",
+    "main.6fa3fca4.js.map": "/Internship_Edhaas/static/js/main.6fa3fca4.js.map",
+    "453.bd919971.chunk.js.map": "/Internship_Edhaas/static/js/453.bd919971.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5833ebad.css",
+    "static/js/main.6fa3fca4.js"
+  ]
+}
